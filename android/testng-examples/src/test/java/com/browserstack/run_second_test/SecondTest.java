@@ -46,7 +46,6 @@ public class SecondTest extends BrowserStackTestNGTest {
 			// TODO Auto-generated catch block
 			return false;
 		}
-
 		return true;
 	}
 }
